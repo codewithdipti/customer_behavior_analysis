@@ -44,10 +44,12 @@ The dataset includes:
 | Dashboard & Reporting     | Power BI                       |
 | Version Control           | Git & GitHub                   |
  **Project Workflow**
+ 
 **1️⃣ Load Dataset in Python**
 * Importing the CSV file
 * Inspecting data structure
 * Identifying missing values, formats, datatypes
+* 
  **2️⃣ Data Cleaning**
 * Handling missing values
 * Removing duplicates
@@ -78,6 +80,7 @@ Imported the cleaned dataset into MySQL Server and performed:
 * Subqueries
 * Joins
 * Group-by analysis
+  
  **5️⃣ Power BI Dashboard**
 A fully interactive dashboard was created to visualize key insights:
 * Sales performance by gender
@@ -91,12 +94,16 @@ Dashboard includes:
 * Pie charts
 * Slicers
 * Trend lines
+
+  
 **6️⃣ Final Business Insights Report**
 A concise report summarizing:
 * Key findings from EDA
 * SQL-based insights
 * Dashboard highlights
 * Strategic recommendations for business growth
+
+  
 **Key Insights from the Project**
 * Female customers generated slightly higher revenue.
 * Clothing and electronics were the most purchased categories.
